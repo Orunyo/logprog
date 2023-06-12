@@ -1,0 +1,45 @@
+dentist("Dr. Smith", 40, "General Dentistry").
+dentist("Dr. Johnson", 35, "Orthodontics").
+dentist("Dr. Anderson", 45, "Pediatric Dentistry").
+
+patient("John", 30, "Male").
+patient("Alice", 25, "Female").
+patient("Michael", 35, "Male").
+patient("Emma", 28, "Female").
+
+tooth(1, "Upper left molar", "Healthy").
+tooth(2, "Upper right molar", "Cavity").
+tooth(3, "Lower left molar", "Healthy").
+tooth(4, "Lower right molar", "Healthy").
+tooth(5, "Upper left incisor", "Cavity").
+tooth(6, "Upper right incisor", "Healthy").
+tooth(7, "Lower left incisor", "Healthy").
+tooth(8, "Lower right incisor", "Healthy").
+tooth(9, "Upper left canine", "Cavity").
+tooth(10, "Upper right canine", "Healthy").
+tooth(11, "Lower left canine", "Cavity").
+tooth(12, "Lower right canine", "Healthy").
+tooth(13, "Upper left premolar", "Healthy").
+tooth(14, "Upper right premolar", "Healthy").
+tooth(15, "Lower left premolar", "Cavity").
+tooth(16, "Lower right premolar", "Healthy").
+tooth(17, "Upper left wisdom tooth", "Cavity").
+tooth(18, "Upper right wisdom tooth", "Healthy").
+tooth(19, "Lower left wisdom tooth", "Healthy").
+tooth(20, "Lower right wisdom tooth", "Healthy").
+tooth(21, "Upper left incisor", "Healthy").
+tooth(22, "Upper right incisor", "Cavity").
+tooth(23, "Lower left incisor", "Healthy").
+tooth(24, "Lower right incisor", "Cavity").
+tooth(25, "Upper left premolar", "Cavity").
+tooth(26, "Upper right premolar", "Healthy").
+tooth(27, "Lower left premolar", "Cavity").
+tooth(28, "Lower right premolar", "Healthy").
+tooth(29, "Upper left wisdom tooth", "Healthy").
+tooth(30, "Upper right wisdom tooth", "Cavity").
+
+treatment("Cleaning", "Routine dental cleaning", 60).
+treatment("Filling", "Tooth cavity filling", 90).
+treatment("Extraction", "Tooth extraction", 120).
+treatment("Orthodontic Treatment", "Correction of tooth alignment", 180).
+treatment("Root Canal", "Endodontic treatment", 150).
